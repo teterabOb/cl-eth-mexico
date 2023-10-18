@@ -1,0 +1,27 @@
+{
+    "name": "Quetzalcoatl  - La Serpiente Emplumada",
+    "description": "Es uno de los dioses más importantes de la cultura mesoamericana, a veces considerado la principal divinidad del panteón mexica. Es la deidad de la vida, la luz, la fertilidad, la civilización y el conocimiento. En ocasiones, también señor de los vientos y regidor del Oeste.",
+    "image": "https://ipfs.io/ipfs/QmUHkcjWGFcXhnpxAGsuCqprpjpdsFys9zoZMdd7dzzfNn",
+    "attributes": [
+        {
+            "trait_type": "Year",
+            "value": "0000"
+        },
+        {
+            "trait_type": "Age",
+            "value": "Forever"
+        },
+        {
+            "trait_type": "Team",
+            "value": "Lighters"
+        },
+        {
+            "trait_type": "G",
+            "value": "5"
+        },
+        {
+            "trait_type": "AB",
+            "value": "10"
+        }
+    ]
+}
