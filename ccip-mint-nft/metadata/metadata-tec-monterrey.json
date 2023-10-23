@@ -1,0 +1,27 @@
+{
+    "name": "Mexico 2023 - Dia de Muertos",
+    "description": "El Día de Muertos es una tradición mexicana celebrada el 1 y 2 de noviembre en la que se honra la memoria de los muertos. ",
+    "image": "https://ipfs.io/ipfs/QmSCMfWwGnzofrnSQzvX4k3LHWFtm4JY3BSdyzoLhByzHc",
+    "attributes": [
+        {
+            "trait_type": "Year",
+            "value": "0000"
+        },
+        {
+            "trait_type": "Age",
+            "value": "Forever"
+        },
+        {
+            "trait_type": "Team",
+            "value": "Lighters"
+        },
+        {
+            "trait_type": "G",
+            "value": "5"
+        },
+        {
+            "trait_type": "AB",
+            "value": "10"
+        }
+    ]
+}
