@@ -16,3 +16,6 @@ Código utilizado
 
 - Chainlink Price Feeds - carpeta: cl-price-feeds
 - Chainlink CCIP - carpeta: ccip-mint-nft/* - cci-transfer-data/* - ccip-transfer-tokens/*
+
+
+Nota: todos los contratos fueron desplegados utilizando Remix.
