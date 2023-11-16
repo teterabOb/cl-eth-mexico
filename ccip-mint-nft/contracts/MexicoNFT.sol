@@ -5,11 +5,8 @@ import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract MexicoNFT is ERC721, ERC721URIStorage, Ownable {
-    /* Side event Metadata */
-    string constant TOKEN_URI = "https://ipfs.io/ipfs/QmYqMCv3tB21RRAzSWcxuRVrhUq4wgKts1yP8X1p3G1qxG";
-    /* Tec. de Monterrey Metadata */
-    //string constant TOKEN_URI = "https://ipfs.io/ipfs/QmNrJnGgmXDZdRKZKeU3BydksfVaAp9t4nzGt4s5F4ooYk"
+contract MexicoNFT is ERC721, ERC721URIStorage, Ownable {    
+    string constant TOKEN_URI = "https://ipfs.io/ipfs/QmX4TxeXug62NfF5LpoQDoaSFryiwQdhAGhhAYKu4ATFXU";    
     uint256 private _nextTokenId;
 
     constructor()
