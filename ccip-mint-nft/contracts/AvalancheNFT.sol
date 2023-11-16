@@ -11,7 +11,7 @@ contract AvalancheNFT is ERC721, ERC721URIStorage, Ownable {
     uint256 private _nextTokenId;
 
     constructor()
-        ERC721("Mexico NFT", "MTK")
+        ERC721("Avalanche x Chainlink NFT", "ACN")
         Ownable(msg.sender)
     {}
 
